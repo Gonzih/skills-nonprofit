@@ -1,0 +1,29 @@
+{
+  "name": "@gonzih/skills-nonprofit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Claude Code skill suite for nonprofit leaders, grant writers, and development directors",
+  "main": "install.js",
+  "bin": {
+    "skills-nonprofit": "install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "nonprofit",
+    "grant-writing",
+    "fundraising",
+    "impact"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "files": [
+    "skills/",
+    "install.js",
+    "README.md"
+  ]
+}
