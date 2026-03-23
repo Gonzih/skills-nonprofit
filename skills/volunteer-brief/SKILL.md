@@ -28,3 +28,8 @@ Suggest any clarifying questions the organization should answer before publishin
 
 ## Example outputs
 A 1-page public role description formatted for a website or flyer, plus a 1–2 page internal orientation brief with onboarding checklist — both ready for staff review before distribution.
+
+## Live Data Sources
+- **IRS EO compliance resources** — IRS.gov/charities guidance on exempt organization requirements, prohibited activities, and annual filing obligations
+- **State charity registration requirements database** — state-by-state registration, renewal, and exemption thresholds for charitable solicitation
+- **Form 990 filing requirements by revenue tier** — IRS thresholds determining whether to file 990-N, 990-EZ, or full 990, with due dates and extension rules

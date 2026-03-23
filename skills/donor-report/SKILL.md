@@ -31,3 +31,8 @@ Summarize how the gift was used (brief budget summary or pie-chart callout langu
 
 ## Example outputs
 A 2–3 page donor report in letter or memo format, with labeled sections, outcome callout boxes, a story sidebar, and a closing paragraph with a clear call to action.
+
+## Live Data Sources
+- **DonorSearch wealth screening signals** — public-record patterns for real estate holdings, business affiliations, and prior philanthropic giving
+- **IRS Publication 526 charitable deduction rules** — current rules for substantiation, quid pro quo disclosures, and gift valuation
+- **AFP fundraising benchmark data** — Association of Fundraising Professionals industry benchmarks for retention rates, average gift size, and cost to raise a dollar
