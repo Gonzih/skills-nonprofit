@@ -28,3 +28,8 @@ Adjust length, tone, and structure for the target channel: 600–800 words for n
 
 ## Example outputs
 A polished 400–700 word impact story with a hook opening, narrative arc, embedded statistic, and mission-connected close — plus a 1–2 sentence social caption variant.
+
+## Live Data Sources
+- **IRS Form 990 data via ProPublica Nonprofit Explorer API** — financial data, program descriptions, and executive compensation for any filed 990
+- **GuideStar financial benchmarks** — sector and budget-size peer comparisons for program efficiency and fundraising ratios
+- **Charity Navigator API** — watchdog ratings for accountability, transparency, and impact scores

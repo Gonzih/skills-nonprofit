@@ -31,3 +31,9 @@ Justify each major line item (personnel, fringe, supplies, contractual, indirect
 
 ## Example outputs
 A 4–6 page narrative proposal ready for final review, with clearly labeled sections, data citations placeholders, and a prose budget narrative that mirrors the line-item budget.
+
+## Live Data Sources
+- **Grants.gov API** — search active federal grant opportunities by CFDA number, agency, or keyword
+- **Foundation Directory patterns** — identify private foundation funding priorities and recent grant histories
+- **NEA/NEH grant databases** — arts and humanities federal funding opportunities
+- **CFDA catalog API** — Catalog of Federal Domestic Assistance program listings and eligibility rules
